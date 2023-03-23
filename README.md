@@ -1,2 +1,8 @@
 # Stone-Paper-Scissor-Game
-Developed this game while learning Python .
+StonePaper Scissor game with Sound effects, Developed while learning Python.
+
+# Modules Include : 
+ - time
+ - random
+ - playsound
+ 
